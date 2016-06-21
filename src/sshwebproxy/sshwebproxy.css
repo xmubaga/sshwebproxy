@@ -1,0 +1,61 @@
+.header
+{
+    font-size: 20pt;
+    text-align:center;
+}
+
+.sub-header
+{
+    font-size: 12pt;
+}
+
+.file{
+	margin-top: auto;
+	margin-right: 10%;
+	margin-bottom: auto;
+	margin-left: 10%;
+}
+
+.upload{
+	background-color:#CCCCCC;
+}
+
+.index{
+	margin-top: auto;
+	margin-right: 30%;
+	margin-bottom: auto;
+	margin-left: 35%;
+}
+
+.login{
+	margin-top: 5%;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 40%;
+}
+.pannel{
+	margin-top: auto;
+	margin-right: 5%;
+	margin-bottom: auto;
+	margin-left: 5%;
+}
+
+.error
+{
+    background-color: red;
+    font-size : 125%;
+}
+
+/* Defines the style for the Shell text display div */
+#shell
+{
+   	background-color: #666666;
+	font-size: medium;
+	color: #FFFFFF;
+}
+
+/* Defines the style for the cursor span */
+#shell-cursor
+{
+    background-color: #FFFF00;
+}
